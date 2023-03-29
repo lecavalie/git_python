@@ -68,3 +68,4 @@ for i in range(len(str2)):
     if str2[i] != str2[i][::-1]:
         str1 = str.title()
     print(str1)
+    print(str1)
