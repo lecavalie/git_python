@@ -69,3 +69,4 @@ for i in range(len(str2)):
         str1 = str.title()
     print(str1)
     print(str1)
+wow
